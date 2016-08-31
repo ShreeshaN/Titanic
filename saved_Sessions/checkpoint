@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/shreesha/PycharmProjects/FFN/src/titanic/saved_Sessions/titanic_tf_model.sess"
+all_model_checkpoint_paths: "/home/shreesha/PycharmProjects/FFN/src/titanic/saved_Sessions/titanic_tf_model.sess"
